@@ -54,15 +54,30 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
 
 - Week 7: Postwestern Society
 
+- Week 8: Sapir-Whorf: Language
+    - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost.
+        - (watch the episode too)
+    - The Dispossessed. Ursula K. Le Guin.
+        - (selections around Pravic)
+
 
 ---
 
 - <http://library.uniteddiversity.coop/More_Books_and_Reports/The_Culture_Novels-Iain_M_Bainks-Anarchist_Science_Fiction/iain%20m%20banks%20-%201989%20-%20the%20state%20of%20the%20art/Iain%20M.%20Banks%20-%20The%20State%20of%20the%20Art%20v1.html>
-- [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost.
-- The Dispossessed. Ursula K. Le Guin.
+- The Futurological Congress. Stanisław Lem.
 
+to check out:
 - Trouble on Triton. Samuel R. Delany.
 - The Left Hand of Darkness. Ursula K. Le Guin.
 - China Mountain Zhang. Maureen F. McHugh.
 - Stories of Your Life and Others. Ted Chiang.
 - Lilith's Brood. Octavia E. Butler.
+- Down and Out in the Magic Kingdom. Cory Doctorow.
+- Martian Chronicles. Ray Bradbury.
+- V for Vendetta. Alan Moore.
+- Stranger in a Strange Land. Robert A. Heinlein.
+- Never Let Me Go. Kazuo Ishiguro.
+- Snow Crash. Neal Stephenson.
+- The Third Wave. Alvin Toffler.
+
+also see: <https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit>
