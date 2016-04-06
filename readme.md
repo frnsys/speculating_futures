@@ -89,3 +89,5 @@ to check out:
 - Ecotopia. Ernest Callenbach
 
 also see: <https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit>
+
+some readings were taken from: <https://github.com/allisonburtch/Critical-Theory-of-Technology>
