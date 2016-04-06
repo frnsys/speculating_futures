@@ -90,4 +90,7 @@ to check out:
 
 also see: <https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit>
 
-some readings were taken from: <https://github.com/allisonburtch/Critical-Theory-of-Technology>
+the following readings were taken from: <https://github.com/allisonburtch/Critical-Theory-of-Technology>
+
+- [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
+- [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
