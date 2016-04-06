@@ -9,7 +9,6 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
 
 - Week 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
     - readings:
-        - SPOOKS, by EM Quangel
         - Brave New World, Aldous Huxley
         - climate change, racial and gender inequality, wealth disparity
         - psychopass/sesame credit
@@ -33,6 +32,7 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
     - [Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on). Colin Kinniburgh.
     - [The Laborers Who Keep Dick Pics and Beheadings Out of Your Facebook Feed](http://www.wired.com/2014/10/content-moderation). Adrian Chen.
     - [1 Million Workers. 90 Million iPhones. 17 Suicides. Who’s to Blame?](http://www.wired.com/2011/02/ff_joelinchina/). Joel Johnson.
+    - [Congratulations, We’re Moving Your Department to Tennessee](https://backchannel.com/those-entry-level-startup-jobs-they-re-now-mostly-dead-ends-in-the-boondocks-af3b4066f5dd#.gmwwi6lh0). Lauren Smiley.
     - [The Ones Who Walk Away From Omelas](http://engl210-deykute.wikispaces.umb.edu/file/view/omelas.pdf). Ursula K. Le Guin.
 
 - Week 4: The Visible Hand: Economies
@@ -53,12 +53,17 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
     - [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/). Peter Frase.
 
 - Week 7: Postwestern Society
+    - [Mono no aware](http://www.lightspeedmagazine.com/fiction/mono-no-aware/). Ken Liu.
 
 - Week 8: Sapir-Whorf: Language
     - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost.
         - (watch the episode too)
     - The Dispossessed. Ursula K. Le Guin.
         - (selections around Pravic)
+
+- Week 9: Chaff: Internet and (Social) Media
+    - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4), by EM Quangel
+    - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 
 
 ---
@@ -79,5 +84,8 @@ to check out:
 - Never Let Me Go. Kazuo Ishiguro.
 - Snow Crash. Neal Stephenson.
 - The Third Wave. Alvin Toffler.
+- Pacific Edge. Kim Stanley Robinson.
+- For Us, The Living: A Comedy of Customs. Robert A. Heinlein.
+- Ecotopia. Ernest Callenbach
 
 also see: <https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit>
