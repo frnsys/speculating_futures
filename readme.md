@@ -8,6 +8,7 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
 10 weeks
 
 - Week 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
+    - to start: what is utopia? how would you define it?
     - readings:
         - Brave New World, Aldous Huxley
         - climate change, racial and gender inequality, wealth disparity
@@ -62,6 +63,7 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
         - (selections around Pravic)
 
 - Week 9: Chaff: Internet and (Social) Media
+    - topic: the internet and mass connectivity was heralded as a panacea for the challenges of democratic political participation - what happened?
     - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4), by EM Quangel
     - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 
@@ -86,7 +88,8 @@ to check out:
 - The Third Wave. Alvin Toffler.
 - Pacific Edge. Kim Stanley Robinson.
 - For Us, The Living: A Comedy of Customs. Robert A. Heinlein.
-- Ecotopia. Ernest Callenbach
+- Ecotopia. Ernest Callenbach.
+- Embassytown. China Miéville.
 
 also see: <https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit>
 
