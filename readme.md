@@ -90,6 +90,7 @@ to check out:
 - For Us, The Living: A Comedy of Customs. Robert A. Heinlein.
 - Ecotopia. Ernest Callenbach.
 - Embassytown. China Miéville.
+- The Sandman. ETA Hoffmann.
 
 also see: <https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit>
 
