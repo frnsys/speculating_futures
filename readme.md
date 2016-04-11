@@ -44,6 +44,7 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
     - [Red plenty: lessons from the Soviet dream](http://www.theguardian.com/books/2010/aug/07/red-plenty-francis-spufford-ussr). Francis Spufford.
     - [What Wal-Mart Knows About Customers' Habits](http://www.nytimes.com/2004/11/14/business/yourmoney/what-walmart-knows-about-customers-habits.html). Constance L. Hays.
     - [A Few Notes on the Culture](http://www.vavatch.co.uk/books/banks/cultnote.htm). Iain M Banks.
+    - [How Far to AI-topia?](http://www.milesbrundage.com/blog-posts/how-far-to-ai-topia). Miles Brundage.
 
 - Week 5: Positive Freedom: The Post-Work Society
     - [Justice for “Data Janitors”](http://www.publicbooks.org//nonfiction/justice-for-data-janitors). Lilly Irani.
