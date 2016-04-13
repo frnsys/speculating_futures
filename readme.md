@@ -1,7 +1,7 @@
 ~~ work in progress ~~
 ---
 
-Speculating Futures explores past future narratives, like that of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, we will examine what shortcomings prevented these from being fully-realized, how these visions may have been limited or exclusionary, and consider how things are different now. We will tie these to the contemporary technological issues through forward-looking readings like the Xenofeminism manifesto and Inventing the Future. The goal is for students to envision their own utopian futures, which consequently involve reimagining current circumstances, and have them write about and prototype the technologies that undergird these fictions.
+Speculative Futures explores past future narratives, like that of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, we will examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and consider how things are different now. We will tie these to the contemporary technological issues through forward-looking readings like the Xenofeminism manifesto and Inventing the Future. The goal is for students to envision their own utopian futures, which consequently involve reimagining current circumstances, and have them write about and prototype the technologies that undergird these fictions.
 
 ---
 
@@ -17,6 +17,7 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
         - Brave New World, Aldous Huxley
         - climate change, racial and gender inequality, wealth disparity
         - psychopass/sesame credit
+    - [When the Messiah Came to America, She Was a Woman](https://blog.longreads.com/2016/02/25/when-the-messiah-came-to-america-she-was-a-woman/). Chris Jennings.
     - "the future is here, it's just unevenly distributed" - gibson
     - [Why Futurism Has a Cultural Blindspot](http://nautil.us/issue/28/2050/why-futurism-has-a-cultural-blindspot). Tom Vanderbilt.
     - [The Unexotic Underclass](https://miter.mit.edu/the-unexotic-underclass/). C.Z. Nnaemeka.
@@ -30,6 +31,7 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
     - [Xenofeminism: A Politics for Alienation](http://www.laboriacuboniks.net/). Laboria Cuboniks.
     - [The Matter of Seggri](http://poliscifi.pbworks.com/f/leguin.pdf). Ursula K. Le Guin.
     - [Aye, and Gomorrah...](http://strangehorizons.com/2015/20151123/2delany-f.shtml). Samuel R. Delany.
+    - [Bitcoing and Diversity](https://stratechery.com/2016/bitcoin-and-diversity/). Ben Thompson.
 
 - Week 3: Who produces the future? Neocolonialism
     - [Postcapitalist Ecology: A Comment on Inventing the Future](http://thedisorderofthings.com/2015/11/04/postcapitalist-ecology-a-comment-on-inventing-the-future/). Joseph Kay.
@@ -57,9 +59,13 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
 - Week 6: (Intellectual) Property: State and Legislation
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
     - [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/). Peter Frase.
+    - [Crowdsourcing, Open Data and Precarious Labour](https://modelviewculture.com/pieces/crowdsourcing-open-data-and-precarious-labour). Allana Mayer.
+    - [My failures: Civic technology ideas that didn’t quite work](https://medium.com/@joshuatauberer/my-failures-civic-technology-ideas-that-didn-t-quite-work-c73ecf730032#.pq7fmtosy). Joshua Tauberer.
+    - [Four critiques of open data initiatives](http://www.maynoothuniversity.ie/progcity/2013/11/four-critiques-of-open-data-initiatives/). Rob Kitchin.
 
 - Week 7: Postwestern Society
     - [Mono no aware](http://www.lightspeedmagazine.com/fiction/mono-no-aware/). Ken Liu.
+    - [The People of Sand and Slag](http://windupstories.com/books/pump-six-and-other-stories/people-of-sand-and-slag/). Paolo Bacigalupi.
 
 - Week 8: Sapir-Whorf: Language
     - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost.
@@ -103,6 +109,7 @@ the following readings were taken from: <https://github.com/allisonburtch/Critic
 
 - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 - [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
+<<<<<<< HEAD
 
 also refer to:
 
