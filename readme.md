@@ -5,6 +5,10 @@ Speculating Futures explores past future narratives, like that of Ursula K. Le G
 
 ---
 
+![](calvin_and_hobbes.jpg)
+
+---
+
 10 weeks
 
 - Week 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
@@ -99,3 +103,13 @@ the following readings were taken from: <https://github.com/allisonburtch/Critic
 
 - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 - [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
+
+also refer to:
+
+- <http://www.milesbrundage.com/uploads/2/1/6/8/21681226/utopiapaperai.pdf>
+
+also to consider:
+
+- Rebecca Solnit's disaster utopia; the idea of transient utopias vs sustainable ones; <https://www.rochester.edu/in_visible_culture/Issue_16/reviews/johnson/johnson.html>
+- political theory? theories of "human nature"? e.g. Leviathan, state of nature, positive vs negative freedoms. maybe beyond the scope of the course
+- "end of history", dialectic of enlightenment
