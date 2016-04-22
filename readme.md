@@ -24,6 +24,8 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
     - [Make technological utopia easier with this one weird trick](http://futurismic.com/2014/10/12/make-technological-utopia-easier-with-this-one-weird-trick/). Paul Raven.
     - [Social Science Fiction](http://www.peterfrase.com/2010/12/social-science-fiction/). Peter Frase.
     - [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
+    - [Postcards from the Futch](https://medium.com/message/postcards-from-the-futch-595796d8a45d#.7x8g0skdj). Joanne McNeil.
+    - [Optimists’ Creed: Brave New Cyberlearning, Evolving Utopias (Circa 2041)](http://link.springer.com/article/10.1007/s40593-016-0096-x). Winslow Burleson, Armanda Lewis.
 
 - Week 2: Gender and Sexuality
     - [Why Aren't There More Women Futurists?](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097/) Rose Eveleth.
@@ -31,7 +33,6 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
     - [Xenofeminism: A Politics for Alienation](http://www.laboriacuboniks.net/). Laboria Cuboniks.
     - [The Matter of Seggri](http://poliscifi.pbworks.com/f/leguin.pdf). Ursula K. Le Guin.
     - [Aye, and Gomorrah...](http://strangehorizons.com/2015/20151123/2delany-f.shtml). Samuel R. Delany.
-    - [Bitcoing and Diversity](https://stratechery.com/2016/bitcoin-and-diversity/). Ben Thompson.
 
 - Week 3: Who produces the future? Neocolonialism
     - [Postcapitalist Ecology: A Comment on Inventing the Future](http://thedisorderofthings.com/2015/11/04/postcapitalist-ecology-a-comment-on-inventing-the-future/). Joseph Kay.
@@ -59,13 +60,9 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
 - Week 6: (Intellectual) Property: State and Legislation
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
     - [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/). Peter Frase.
-    - [Crowdsourcing, Open Data and Precarious Labour](https://modelviewculture.com/pieces/crowdsourcing-open-data-and-precarious-labour). Allana Mayer.
-    - [My failures: Civic technology ideas that didn’t quite work](https://medium.com/@joshuatauberer/my-failures-civic-technology-ideas-that-didn-t-quite-work-c73ecf730032#.pq7fmtosy). Joshua Tauberer.
-    - [Four critiques of open data initiatives](http://www.maynoothuniversity.ie/progcity/2013/11/four-critiques-of-open-data-initiatives/). Rob Kitchin.
 
 - Week 7: Postwestern Society
     - [Mono no aware](http://www.lightspeedmagazine.com/fiction/mono-no-aware/). Ken Liu.
-    - [The People of Sand and Slag](http://windupstories.com/books/pump-six-and-other-stories/people-of-sand-and-slag/). Paolo Bacigalupi.
 
 - Week 8: Sapir-Whorf: Language
     - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost.
@@ -102,6 +99,7 @@ to check out:
 - Ecotopia. Ernest Callenbach.
 - Embassytown. China Miéville.
 - The Sandman. ETA Hoffmann.
+- The Handmaid's Tale. Margaret Atwood.
 
 also see: <https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit>
 
@@ -120,3 +118,4 @@ also to consider:
 - Rebecca Solnit's disaster utopia; the idea of transient utopias vs sustainable ones; <https://www.rochester.edu/in_visible_culture/Issue_16/reviews/johnson/johnson.html>
 - political theory? theories of "human nature"? e.g. Leviathan, state of nature, positive vs negative freedoms. maybe beyond the scope of the course
 - "end of history", dialectic of enlightenment
+- young adult speculative fiction? the perspective of age? growing up?
