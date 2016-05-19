@@ -27,6 +27,8 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
     - [Postcards from the Futch](https://medium.com/message/postcards-from-the-futch-595796d8a45d#.7x8g0skdj). Joanne McNeil.
     - [Optimists’ Creed: Brave New Cyberlearning, Evolving Utopias (Circa 2041)](http://link.springer.com/article/10.1007/s40593-016-0096-x). Winslow Burleson, Armanda Lewis.
     - [Free love or genocide? The trouble with Utopias](http://www.theguardian.com/books/2016/jan/24/trouble-with-utopia-free-love-genocide-thomas-more-500-exhibition). Tobias Jones.
+    - [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE)
+    - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
 
 - Week 2: Gender and Sexuality
     - [Why Aren't There More Women Futurists?](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097/) Rose Eveleth.
@@ -105,11 +107,6 @@ to check out:
 
 also see: <https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit>
 
-the following readings were taken from: <https://github.com/allisonburtch/Critical-Theory-of-Technology>
-
-- [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
-- [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
-
 also refer to:
 
 - <http://www.milesbrundage.com/uploads/2/1/6/8/21681226/utopiapaperai.pdf>
@@ -120,3 +117,15 @@ also to consider:
 - political theory? theories of "human nature"? e.g. Leviathan, state of nature, positive vs negative freedoms. maybe beyond the scope of the course
 - "end of history", dialectic of enlightenment
 - young adult speculative fiction? the perspective of age? growing up?
+
+---
+
+the following were taken from: Allison Burtch's [Critical Theory of Technology](https://github.com/allisonburtch/Critical-Theory-of-Technology)
+
+- [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
+- [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
+
+the following were taken from Chris Novello's [Computer Utopias](http://chrisnovello.com/teaching/risd/computer-utopias/)
+
+- [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE)
+- [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
