@@ -11,6 +11,8 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
 
 10 weeks
 
+(these weeks aren't in a particular order at the moment)
+
 - Week 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
     - to start: what is utopia? how would you define it?
     - readings:
@@ -29,6 +31,10 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
     - [Free love or genocide? The trouble with Utopias](http://www.theguardian.com/books/2016/jan/24/trouble-with-utopia-free-love-genocide-thomas-more-500-exhibition). Tobias Jones.
     - [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE)
     - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
+
+- Week 1.5?: The Illusive Utopia: Cultural Hegemony and Ideology
+    - [In the Name of Love](https://www.jacobinmag.com/2014/01/in-the-name-of-love/). Miya Tokumitsu.
+    - ["Sharing" Economy and Self-Exploitation](http://thenewinquiry.com/blogs/marginal-utility/sharing-economy-and-self-exploitation/). Rob Horning.
 
 - Week 2: Gender and Sexuality
     - [Why Aren't There More Women Futurists?](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097/) Rose Eveleth.
@@ -59,6 +65,7 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
 - Week 5: Positive Freedom: The Post-Work Society
     - [Justice for “Data Janitors”](http://www.publicbooks.org//nonfiction/justice-for-data-janitors). Lilly Irani.
     - [The Dialectic of Technology](https://www.jacobinmag.com/2012/02/the-dialectic-of-technology/). Peter Frase.
+    - [The Workers Who Bring You Black Friday](http://www.thenation.com/article/holiday-crush/). Gabriel Thompson.
 
 - Week 6: (Intellectual) Property: State and Legislation
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
@@ -78,6 +85,9 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
     - topic: the internet and mass connectivity was heralded as a panacea for the challenges of democratic political participation - what happened?
     - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4), by EM Quangel
     - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
+
+- Week 10: All We Have: Environment & Ecology
+    - [Alive in the Sunshine](https://www.jacobinmag.com/2014/01/alive-in-the-sunshine/). Alyssa Battistoni.
 
 
 ---
