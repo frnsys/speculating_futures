@@ -51,14 +51,18 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
     - [Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on). Colin Kinniburgh.
     - [The Laborers Who Keep Dick Pics and Beheadings Out of Your Facebook Feed](http://www.wired.com/2014/10/content-moderation). Adrian Chen.
     - [1 Million Workers. 90 Million iPhones. 17 Suicides. Who’s to Blame?](http://www.wired.com/2011/02/ff_joelinchina/). Joel Johnson.
+    - [In China, Human Costs Are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html). Charles Duhigg and David Barboza.
     - [Congratulations, We’re Moving Your Department to Tennessee](https://backchannel.com/those-entry-level-startup-jobs-they-re-now-mostly-dead-ends-in-the-boondocks-af3b4066f5dd#.gmwwi6lh0). Lauren Smiley.
     - [The Ones Who Walk Away From Omelas](http://engl210-deykute.wikispaces.umb.edu/file/view/omelas.pdf). Ursula K. Le Guin.
+    - [The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth). Tim Maughan.
+    - [The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution). Ted Genoways.
 
 - Week 4: The Visible Hand: Economies
     - topics:
         - algorithmic planning
         - societies where technology does not change, but the social relations around it do
     - [The Cybersyn Revolution](https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/). Eden Medina.
+    - [Big Data Lessons from Our Cybernetic Past](https://www.youtube.com/watch?v=9qKoaQo9GTw&feature=youtu.be)
     - [Red plenty: lessons from the Soviet dream](http://www.theguardian.com/books/2010/aug/07/red-plenty-francis-spufford-ussr). Francis Spufford.
     - [What Wal-Mart Knows About Customers' Habits](http://www.nytimes.com/2004/11/14/business/yourmoney/what-walmart-knows-about-customers-habits.html). Constance L. Hays.
     - [A Few Notes on the Culture](http://www.vavatch.co.uk/books/banks/cultnote.htm). Iain M Banks.
@@ -76,6 +80,7 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
 - Week 7: Postwestern Society
     - [Mono no aware](http://www.lightspeedmagazine.com/fiction/mono-no-aware/). Ken Liu.
     - [Tongtong's Summer](http://clarkesworldmagazine.com/xia_12_14_reprint/). Xia Jia (translated by Ken Liu).
+    - [The End of Days Is Coming — Just Not to China](https://foreignpolicy.com/2016/07/29/the-end-of-days-is-coming-just-not-to-china-apocalyptic-fiction-movies/). Isaac Stone Fish.
 
 - Week 8: Sapir-Whorf: Language
     - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost.
@@ -144,3 +149,9 @@ the following were taken from Chris Novello's [Computer Utopias](http://chrisnov
 
 - [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE)
 - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
+
+the following were taken from the [Supply Studies Syllabus](https://supplystudies.com/syllabus/)
+
+- [The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth). Tim Maughan.
+- [In China, Human Costs Are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html). Charles Duhigg and David Barboza.
+- [The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution). Ted Genoways.
