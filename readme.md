@@ -95,6 +95,7 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
 
 - Week 10: All We Have: Environment & Ecology
     - [Alive in the Sunshine](https://www.jacobinmag.com/2014/01/alive-in-the-sunshine/). Alyssa Battistoni.
+    - a selection from Lilith's Brood. Octavia E. Butler.
 
 - Week 11??: Come down
     - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1#.oef7thyw0). Quinn Norton.
@@ -110,7 +111,6 @@ to check out:
 - The Left Hand of Darkness. Ursula K. Le Guin.
 - China Mountain Zhang. Maureen F. McHugh.
 - Stories of Your Life and Others. Ted Chiang.
-- Lilith's Brood. Octavia E. Butler.
 - Down and Out in the Magic Kingdom. Cory Doctorow.
 - Martian Chronicles. Ray Bradbury.
 - V for Vendetta. Alan Moore.
