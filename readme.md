@@ -95,6 +95,7 @@ Speculative Futures explores past future narratives, like that of Ursula K. Le G
 
 - Week 10: All We Have: Environment & Ecology
     - [Alive in the Sunshine](https://www.jacobinmag.com/2014/01/alive-in-the-sunshine/). Alyssa Battistoni.
+    - [Samsung's Galaxy Note 7 Recall is an Environmental Travesty](http://motherboard.vice.com/read/galaxy-note-7-explosion-environmental-impact-recycling). Jason Koebler.
     - a selection from Lilith's Brood. Octavia E. Butler.
 
 - Week 11??: Come down
