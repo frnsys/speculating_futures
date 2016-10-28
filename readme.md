@@ -1,7 +1,7 @@
 ~~ work in progress ~~
 ---
 
-_Speculative Futures_ explores past speculative narratives, like those of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, we'll examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and consider how things are different now. We'll tie these to the contemporary issues that need to be addressed in new utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
+_Speculative Futures_ explores past speculative narratives, like those of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, these readings examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and tie them to the contemporary issues that need to be addressed in subsequent utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
 
 This syllabus will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
 
@@ -11,7 +11,7 @@ This syllabus will probably never be complete; it's always open to suggestions. 
 
 ---
 
-_NB: except for session 1, these sessions aren't in a particular order. There's so much overlap and interaction between these topics that you can jump around as much as you want; the "session" structure is more of a loose guide. Reading "out of order" might reveal interesting connections that would otherwise go unnoticed._
+_NB: except for session 1, these sessions aren't in a particular order. There's so much overlap and interaction between these topics that you can jump around as much as you want; the "session" structure is more of a loose guide. Reading "out of order" could lead to interesting connections~_
 
 - Session 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
     - "The future is here, it's just unevenly distributed" - William Gibson
