@@ -25,7 +25,7 @@ _NB: except for session 1, these sessions aren't in a particular order._
     - [Postcards from the Futch](https://medium.com/message/postcards-from-the-futch-595796d8a45d#.7x8g0skdj). Joanne McNeil.
     - [Optimists’ Creed: Brave New Cyberlearning, Evolving Utopias (Circa 2041)](http://link.springer.com/article/10.1007/s40593-016-0096-x). Winslow Burleson, Armanda Lewis.
     - [Free love or genocide? The trouble with Utopias](http://www.theguardian.com/books/2016/jan/24/trouble-with-utopia-free-love-genocide-thomas-more-500-exhibition). Tobias Jones.
-    - [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE)
+    - [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE). Edited by Dylan Marron.
     - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
     - [The New Utopians](https://newrepublic.com/article/123217/new-utopians). Jeet Heer.
 
@@ -39,7 +39,7 @@ _NB: except for session 1, these sessions aren't in a particular order._
     - [Xenofeminism: A Politics for Alienation](http://www.laboriacuboniks.net/). Laboria Cuboniks.
     - [The Matter of Seggri](http://poliscifi.pbworks.com/f/leguin.pdf). Ursula K. Le Guin.
     - [Aye, and Gomorrah...](http://strangehorizons.com/2015/20151123/2delany-f.shtml). Samuel R. Delany.
-    - [So far we have discovered fourteen genders](https://twitter.com/MicroSFF/status/720991032079462401). @MicroSFF
+    - [So far we have discovered fourteen genders](https://twitter.com/MicroSFF/status/720991032079462401). @MicroSFF.
     - [Technically, a Utopia](http://bookforum.com/inprint/022_05/15583). Sarah Leonard.
 
 - Session 4: Who produces the future? Neocolonialism
@@ -56,7 +56,7 @@ _NB: except for session 1, these sessions aren't in a particular order._
 
 - Session 5: The Visible Hand: Economies
     - [The Cybersyn Revolution](https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/). Eden Medina.
-    - [Big Data Lessons from Our Cybernetic Past](https://www.youtube.com/watch?v=9qKoaQo9GTw&feature=youtu.be)
+    - [Big Data Lessons from Our Cybernetic Past](https://www.youtube.com/watch?v=9qKoaQo9GTw&feature=youtu.be). Eden Medina.
     - [Red plenty: lessons from the Soviet dream](http://www.theguardian.com/books/2010/aug/07/red-plenty-francis-spufford-ussr). Francis Spufford.
     - [What Wal-Mart Knows About Customers' Habits](http://www.nytimes.com/2004/11/14/business/yourmoney/what-walmart-knows-about-customers-habits.html). Constance L. Hays.
     - [A Few Notes on the Culture](http://www.vavatch.co.uk/books/banks/cultnote.htm). Iain M Banks.
@@ -71,7 +71,7 @@ _NB: except for session 1, these sessions aren't in a particular order._
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
     - [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/). Peter Frase.
     - [Seeing Like A State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf) (Chapter 1). James C. Scott.
-    - [Psycho-Pass](https://en.wikipedia.org/wiki/Psycho-Pass)
+    - [Psycho-Pass](https://en.wikipedia.org/wiki/Psycho-Pass). Production I.G.
 
 - Session 8: Postwestern Society, Diaspora, & Race
     - [Tongtong's Summer](http://clarkesworldmagazine.com/xia_12_14_reprint/). Xia Jia (translated by Ken Liu).
@@ -92,8 +92,8 @@ _NB: except for session 1, these sessions aren't in a particular order._
         - (selections around Pravic)
 
 - Session 11: Chaff: Internet and (Social) Media
-    - topic: the internet and mass connectivity was heralded as a panacea for the challenges of democratic political participation - what happened?
-    - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4), by EM Quangel
+    - TODO: the internet and mass connectivity was heralded as a panacea for the challenges of democratic political participation - what happened?
+    - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4). EM Quangel
     - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 
 - Session 12: All We Have: Environment & Ecology
