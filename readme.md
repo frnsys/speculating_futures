@@ -1,7 +1,7 @@
 ~~ work in progress ~~
 ---
 
-Speculative Futures explores past future narratives, like that of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, we will examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and consider how things are different now. We will tie these to the contemporary technological issues through forward-looking readings like the Xenofeminism manifesto and Inventing the Future. The goal is for students to envision their own utopian futures, which consequently involve reimagining current circumstances, and have them write about and prototype the technologies that undergird these fictions.
+Speculative Futures explores past future narratives, like that of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, we'll examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and consider how things are different now. We'll tie these to the contemporary issues that need to be acknowledge in new utopias. The goal is for students to envision their own utopian futures, which consequently involve reimagining current circumstances, and have them write about and prototype the technologies that undergird these fictions.
 
 This syllabus will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
 
@@ -11,7 +11,7 @@ This syllabus will probably never be complete; it's always open to suggestions. 
 
 ---
 
-(except for session 1, these sessions aren't in a particular order)
+_NB: except for session 1, these sessions aren't in a particular order._
 
 - Session 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
     - TODO something about utopia and the "end of history"?
@@ -74,7 +74,6 @@ This syllabus will probably never be complete; it's always open to suggestions. 
     - [Psycho-Pass](https://en.wikipedia.org/wiki/Psycho-Pass)
 
 - Session 8: Postwestern Society, Diaspora, & Race
-    - [Mono no aware](http://www.lightspeedmagazine.com/fiction/mono-no-aware/). Ken Liu.
     - [Tongtong's Summer](http://clarkesworldmagazine.com/xia_12_14_reprint/). Xia Jia (translated by Ken Liu).
     - [The End of Days Is Coming — Just Not to China](https://foreignpolicy.com/2016/07/29/the-end-of-days-is-coming-just-not-to-china-apocalyptic-fiction-movies/). Isaac Stone Fish.
     - [Visual Cultures of Indigenous Futurisms](http://gutsmagazine.ca/featured/visual-cultures). Lindsay Nixon.
@@ -108,7 +107,27 @@ This syllabus will probably never be complete; it's always open to suggestions. 
 
 ---
 
-Books suggested by others/that I haven't gotten to yet:
+The following were taken from Allison Burtch's [Critical Theory of Technology](https://github.com/allisonburtch/Critical-Theory-of-Technology):
+
+- [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
+- [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
+
+The following were taken from Chris Novello's [Computer Utopias](http://chrisnovello.com/teaching/risd/computer-utopias/):
+
+- [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE)
+- [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
+
+The following were taken from the [Supply Studies Syllabus](https://supplystudies.com/syllabus/):
+
+- [The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth). Tim Maughan.
+- [In China, Human Costs Are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html). Charles Duhigg and David Barboza.
+- [The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution). Ted Genoways.
+
+---
+
+This syllabus isn't about science fiction per se, but there's definitely a lot of overlap.
+
+Here are science fiction books that I've enjoyed or that were suggested by others:
 
 - Trouble on Triton. Samuel R. Delany.
 - The Left Hand of Darkness. Ursula K. Le Guin.
@@ -125,21 +144,3 @@ Books suggested by others/that I haven't gotten to yet:
 - The Handmaid's Tale. Margaret Atwood.
 
 Another [list of recommend science fiction is maintained here](https://docs.google.com/document/d/13-nu88sfg0mDgbpKyJHpU6Q7tK9PJTTScaaOyeGplqM/edit).
-
----
-
-The following were taken from Allison Burtch's [Critical Theory of Technology](https://github.com/allisonburtch/Critical-Theory-of-Technology):
-
-- [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
-- [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
-
-The following were taken from Chris Novello's [Computer Utopias](http://chrisnovello.com/teaching/risd/computer-utopias/):
-
-- [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE)
-- [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
-
-The following were taken from the [Supply Studies Syllabus](https://supplystudies.com/syllabus/):
-
-- [The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth). Tim Maughan.
-- [In China, Human Costs Are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html). Charles Duhigg and David Barboza.
-- [The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution). Ted Genoways.
