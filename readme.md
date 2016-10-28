@@ -88,7 +88,7 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
 
 - Session 10: Sapir-Whorf: Language
     - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost. (watch the episode too)
-    - [Walls of the Tongue: A Sociolinguistic Analysis of Ursula K. Le Guin's _The Dispossessed](http://linguistics.berkeley.edu/~dwbruhn/dwbruhn_376_Dispossessed.pdf). Daniel W. Bruhn.
+    - [Walls of the Tongue: A Sociolinguistic Analysis of Ursula K. Le Guin's _The Dispossessed_](http://linguistics.berkeley.edu/~dwbruhn/dwbruhn_376_Dispossessed.pdf). Daniel W. Bruhn.
 
 - Session 11: Chaff: Internet and (Social) Media
     - [Cyber-Utopianism](http://crowdsociety.org/index.php?title=Cyber-utopianism&oldid=4608)
