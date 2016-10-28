@@ -26,7 +26,6 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
     - [Free love or genocide? The trouble with Utopias](http://www.theguardian.com/books/2016/jan/24/trouble-with-utopia-free-love-genocide-thomas-more-500-exhibition). Tobias Jones.
     - [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE). Edited by Dylan Marron.
     - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
-    - [The New Utopians](https://newrepublic.com/article/123217/new-utopians). Jeet Heer.
 
 - Session 2: The Illusive Utopia: Cultural Hegemony and Ideology
     - [In the Name of Love](https://www.jacobinmag.com/2014/01/in-the-name-of-love/). Miya Tokumitsu.
@@ -100,6 +99,7 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
 - Session 12: All We Have: Environment & Ecology
     - [Alive in the Sunshine](https://www.jacobinmag.com/2014/01/alive-in-the-sunshine/). Alyssa Battistoni.
     - [Samsung's Galaxy Note 7 Recall is an Environmental Travesty](http://motherboard.vice.com/read/galaxy-note-7-explosion-environmental-impact-recycling). Jason Koebler.
+    - [The New Utopians](https://newrepublic.com/article/123217/new-utopians). Jeet Heer.
     - [Solarpunk wants to save the world](http://www.hopesandfears.com/hopes/city/life/215749-solarpunk). Ben Valentine & Vincent Callebaut.
 
 - Session 13: Come down
