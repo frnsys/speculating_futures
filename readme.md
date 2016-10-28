@@ -82,7 +82,7 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
     - [Towards Arabfuturism/s](http://www.noveltymag.co.uk/towards-arabfuturisms/). Sulaiman Majali.
     - [Afrofuturism and Arabfuturism: Reflections of a Present-day Diasporic Reader](http://tohumagazine.com/article/afrofuturism-and-arabfuturism-reflections-present-day-diasporic-reader). Lama Suleiman.
 
-- Session 9: Made of Meat: The Body
+- Session 9: Made of Meat: Bodies
     - [Lilith's Brood](https://en.wikipedia.org/wiki/Lilith's_Brood). Octavia E. Butler.
     - [Utopian Possibilities: Disability, Norms, and Eugenics in Octavia Butler's Xenogenesis](http://online.liverpooluniversitypress.co.uk/doi/abs/10.3828/jlcds.2015.2). Claire Curtis.
 
@@ -116,10 +116,10 @@ The following were taken from Allison Burtch's [Critical Theory of Technology](h
 
 The following were taken from Chris Novello's [Computer Utopias](http://chrisnovello.com/teaching/risd/computer-utopias/):
 
-- [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE)
+- [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE). Edited by Dylan Marron.
 - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
 
-The following were taken from the [Supply Studies Syllabus](https://supplystudies.com/syllabus/):
+The following were taken from Matthew Hockenberry's [Supply Studies Syllabus](https://supplystudies.com/syllabus/):
 
 - [The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth). Tim Maughan.
 - [In China, Human Costs Are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html). Charles Duhigg and David Barboza.
