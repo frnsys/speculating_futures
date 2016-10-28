@@ -1,7 +1,7 @@
 ~~ work in progress ~~
 ---
 
-Speculative Futures explores past future narratives, like that of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, we'll examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and consider how things are different now. We'll tie these to the contemporary issues that need to be acknowledge in new utopias. The goal is for students to envision their own utopian futures, which consequently involve reimagining current circumstances, and have them write about and prototype the technologies that undergird these fictions.
+_Speculative Futures_ explores past speculative narratives, like those of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, we'll examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and consider how things are different now. We'll tie these to the contemporary issues that need to be addressed in new utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
 
 This syllabus will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
 
@@ -11,10 +11,9 @@ This syllabus will probably never be complete; it's always open to suggestions. 
 
 ---
 
-_NB: except for session 1, these sessions aren't in a particular order._
+_NB: except for session 1, these sessions aren't in a particular order. There's so much overlap and interaction between these topics that you can jump around as much as you want; the "session" structure is more of a loose guide. Reading "out of order" might reveal interesting connections that would otherwise go unnoticed._
 
 - Session 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
-    - TODO something about utopia and the "end of history"?
     - "The future is here, it's just unevenly distributed" - William Gibson
     - [When the Messiah Came to America, She Was a Woman](https://blog.longreads.com/2016/02/25/when-the-messiah-came-to-america-she-was-a-woman/). Chris Jennings.
     - [Why Futurism Has a Cultural Blindspot](http://nautil.us/issue/28/2050/why-futurism-has-a-cultural-blindspot). Tom Vanderbilt.
@@ -66,6 +65,8 @@ _NB: except for session 1, these sessions aren't in a particular order._
     - [Justice for “Data Janitors”](http://www.publicbooks.org//nonfiction/justice-for-data-janitors). Lilly Irani.
     - [The Dialectic of Technology](https://www.jacobinmag.com/2012/02/the-dialectic-of-technology/). Peter Frase.
     - [The Workers Who Bring You Black Friday](http://www.thenation.com/article/holiday-crush/). Gabriel Thompson.
+    - [Inventing the Future (Review)](http://www.publicseminar.org/2015/10/inventing-the-future/). McKenzie Wark.
+    - [Utopia, Artificial Intelligence, and the Future of Justice](http://www.milesbrundage.com/uploads/2/1/6/8/21681226/utopiapaperai.pdf). Miles Brundage.
 
 - Session 7: (Intellectual) Property: State, Control and Legislation
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
@@ -88,11 +89,11 @@ _NB: except for session 1, these sessions aren't in a particular order._
 
 - Session 10: Sapir-Whorf: Language
     - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost. (watch the episode too)
-    - The Dispossessed. Ursula K. Le Guin.
-        - (selections around Pravic)
+    - [Walls of the Tongue: A Sociolinguistic Analysis of Ursula K. Le Guin's _The Dispossessed](http://linguistics.berkeley.edu/~dwbruhn/dwbruhn_376_Dispossessed.pdf). Daniel W. Bruhn.
 
 - Session 11: Chaff: Internet and (Social) Media
-    - TODO: the internet and mass connectivity was heralded as a panacea for the challenges of democratic political participation - what happened?
+    - [Cyber-Utopianism](http://crowdsociety.org/index.php?title=Cyber-utopianism&oldid=4608)
+    - [An Accelerated Grimace: On Cyber-Utopianism](https://www.thenation.com/article/accelerated-grimace-cyber-utopianism/). Chris Lehmann.
     - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4). EM Quangel
     - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 
@@ -104,6 +105,7 @@ _NB: except for session 1, these sessions aren't in a particular order._
 - Session 13: Come down
     - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1#.oef7thyw0). Quinn Norton.
     - [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015). mcm\_cmc.
+    - [The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed). Ursula K. Le Guin.
 
 ---
 
@@ -125,9 +127,7 @@ The following were taken from the [Supply Studies Syllabus](https://supplystudie
 
 ---
 
-This syllabus isn't about science fiction per se, but there's definitely a lot of overlap.
-
-Here are science fiction books that I've enjoyed or that were suggested by others:
+This syllabus isn't about science fiction per se, but there's definitely a lot of overlap...here are science fiction books that I've enjoyed or that were suggested by others:
 
 - Trouble on Triton. Samuel R. Delany.
 - The Left Hand of Darkness. Ursula K. Le Guin.
@@ -136,7 +136,7 @@ Here are science fiction books that I've enjoyed or that were suggested by other
 - Martian Chronicles. Ray Bradbury.
 - Stranger in a Strange Land. Robert A. Heinlein.
 - Never Let Me Go. Kazuo Ishiguro.
-- Pacific Edge. Kim Stanley Robinson.
+- Green Earth. Kim Stanley Robinson.
 - For Us, The Living: A Comedy of Customs. Robert A. Heinlein.
 - Ecotopia. Ernest Callenbach.
 - Embassytown. China Miéville.
