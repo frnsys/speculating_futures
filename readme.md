@@ -1,7 +1,6 @@
-~~ work in progress ~~
----
+# Speculating Futures
 
-_Speculative Futures_ explores past speculative narratives, like those of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, these readings examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and tie them to the contemporary issues that need to be addressed in subsequent utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
+_Speculating Futures_ looks at past speculative narratives, like those of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, these readings examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and tie them to the contemporary issues that need to be addressed in subsequent utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
 
 This syllabus will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
 
@@ -40,7 +39,7 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
     - [So far we have discovered fourteen genders](https://twitter.com/MicroSFF/status/720991032079462401). @MicroSFF.
     - [Technically, a Utopia](http://bookforum.com/inprint/022_05/15583). Sarah Leonard.
 
-- Session 4: Who produces the future? Neocolonialism
+- Session 4: How's it Made? Neocolonialism
     - [Postcapitalist Ecology: A Comment on Inventing the Future](http://thedisorderofthings.com/2015/11/04/postcapitalist-ecology-a-comment-on-inventing-the-future/). Joseph Kay.
     - [E-waste Republic](http://interactive.aljazeera.com/aje/2015/ewaste/index.html). Jacopo Ottaviani & Isacco Chiaf.
     - [Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on). Colin Kinniburgh.
@@ -82,7 +81,7 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
     - [Towards Arabfuturism/s](http://www.noveltymag.co.uk/towards-arabfuturisms/). Sulaiman Majali.
     - [Afrofuturism and Arabfuturism: Reflections of a Present-day Diasporic Reader](http://tohumagazine.com/article/afrofuturism-and-arabfuturism-reflections-present-day-diasporic-reader). Lama Suleiman.
 
-- Session 9: Made of Meat: Bodies
+- Session 9: Made of Meat: Bodies & Biology
     - [Lilith's Brood](https://en.wikipedia.org/wiki/Lilith's_Brood). Octavia E. Butler.
     - [Utopian Possibilities: Disability, Norms, and Eugenics in Octavia Butler's Xenogenesis](http://online.liverpooluniversitypress.co.uk/doi/abs/10.3828/jlcds.2015.2). Claire Curtis.
 
@@ -102,7 +101,7 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
     - [The New Utopians](https://newrepublic.com/article/123217/new-utopians). Jeet Heer.
     - [Solarpunk wants to save the world](http://www.hopesandfears.com/hopes/city/life/215749-solarpunk). Ben Valentine & Vincent Callebaut.
 
-- Session 13: Come down
+- Session 13: The Come Down
     - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1#.oef7thyw0). Quinn Norton.
     - [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015). mcm\_cmc.
     - [The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed). Ursula K. Le Guin.
