@@ -1,6 +1,6 @@
 # Speculating Futures
 
-_Speculating Futures_ looks at past speculative narratives, like those of Ursula K. Le Guin, and past attempts at technological utopia, like Chile's Cybersyn. In both cases, these readings examine what shortcomings prevented these from being fully realized, how these visions may have been limited or exclusionary, and tie them to the contemporary issues that need to be addressed in subsequent utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
+_Speculating Futures_ looks at past speculative narratives, like those of Ursula K. Le Guin, and past attempts at creating technological utopia, like Chile's Cybersyn. These readings examine the shortcomings that prevented these visions from being fully realized, and how they may have been limited or exclusionary. These texts also tie these visions to the contemporary issues that need to be addressed in subsequent utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
 
 This syllabus will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
 
@@ -10,7 +10,7 @@ This syllabus will probably never be complete; it's always open to suggestions. 
 
 ---
 
-_NB: except for session 1, these sessions aren't in a particular order. There's so much overlap and interaction between these topics that you can jump around as much as you want; the "session" structure is more of a loose guide. Reading "out of order" could lead to interesting connections~_
+_NB: Beyond session 1, these sessions aren't in any particular order. There's so much overlap and interaction between these topics that you can jump around as much as you want; the "session" structure is more of a loose guide. Reading "out of order" could lead to interesting connections~_
 
 - Session 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
     - "The future is here, it's just unevenly distributed" - William Gibson
@@ -25,6 +25,7 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
     - [Free love or genocide? The trouble with Utopias](http://www.theguardian.com/books/2016/jan/24/trouble-with-utopia-free-love-genocide-thomas-more-500-exhibition). Tobias Jones.
     - [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE). Edited by Dylan Marron.
     - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
+    - [The Propaganda of the Colony](http://metropolarity.net/2016/09/style-of-attack-report/). Eighteen & Ras, from Metropolarity's _Style of Attack Report_.
 
 - Session 2: The Illusive Utopia: Cultural Hegemony and Ideology
     - [In the Name of Love](https://www.jacobinmag.com/2014/01/in-the-name-of-love/). Miya Tokumitsu.
@@ -51,7 +52,7 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
     - [The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth). Tim Maughan.
     - [The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution). Ted Genoways.
 
-- Session 5: The Visible Hand: Economies
+- Session 5: The Visible Hand: Economies & Infrastructure
     - [The Cybersyn Revolution](https://www.jacobinmag.com/2015/04/allende-chile-beer-medina-cybersyn/). Eden Medina.
     - [Big Data Lessons from Our Cybernetic Past](https://www.youtube.com/watch?v=9qKoaQo9GTw&feature=youtu.be). Eden Medina.
     - [Red plenty: lessons from the Soviet dream](http://www.theguardian.com/books/2010/aug/07/red-plenty-francis-spufford-ussr). Francis Spufford.
@@ -80,28 +81,27 @@ _NB: except for session 1, these sessions aren't in a particular order. There's 
     - [The Space NDN’s Star Map](http://thenewinquiry.com/essays/the-space-ndns-star-map/). Lou Catherine Cornum.
     - [Towards Arabfuturism/s](http://www.noveltymag.co.uk/towards-arabfuturisms/). Sulaiman Majali.
     - [Afrofuturism and Arabfuturism: Reflections of a Present-day Diasporic Reader](http://tohumagazine.com/article/afrofuturism-and-arabfuturism-reflections-present-day-diasporic-reader). Lama Suleiman.
+    - [The Afronauts](https://theawl.com/the-afronauts-d429ebd9a677#.u9lt149ly). Adwoa Afful & Frances Bodomo.
 
 - Session 9: Made of Meat: Bodies & Biology
     - [Lilith's Brood](https://en.wikipedia.org/wiki/Lilith's_Brood). Octavia E. Butler.
     - [Utopian Possibilities: Disability, Norms, and Eugenics in Octavia Butler's Xenogenesis](http://online.liverpooluniversitypress.co.uk/doi/abs/10.3828/jlcds.2015.2). Claire Curtis.
+    - [Rebooting humanity through disability](https://dishuman.com/2015/02/02/rebooting-humanity-through-disability/). Dan Goodley.
+    - [Crip Utopia and the Future of Disability](http://cdd.journals.yorku.ca/index.php/cdd/article/download/23383/21615). Peter J. Mackey.
 
-- Session 10: Sapir-Whorf: Language
-    - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost. (watch the episode too)
-    - [Walls of the Tongue: A Sociolinguistic Analysis of Ursula K. Le Guin's _The Dispossessed_](http://linguistics.berkeley.edu/~dwbruhn/dwbruhn_376_Dispossessed.pdf). Daniel W. Bruhn.
-
-- Session 11: Chaff: Internet and (Social) Media
+- Session 10: Chaff: Internet and (Social) Media
     - [Cyber-Utopianism](http://crowdsociety.org/index.php?title=Cyber-utopianism&oldid=4608)
     - [An Accelerated Grimace: On Cyber-Utopianism](https://www.thenation.com/article/accelerated-grimace-cyber-utopianism/). Chris Lehmann.
     - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4). EM Quangel
     - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 
-- Session 12: All We Have: Environment & Ecology
+- Session 11: All We Have: Environment & Ecology
     - [Alive in the Sunshine](https://www.jacobinmag.com/2014/01/alive-in-the-sunshine/). Alyssa Battistoni.
     - [Samsung's Galaxy Note 7 Recall is an Environmental Travesty](http://motherboard.vice.com/read/galaxy-note-7-explosion-environmental-impact-recycling). Jason Koebler.
     - [The New Utopians](https://newrepublic.com/article/123217/new-utopians). Jeet Heer.
     - [Solarpunk wants to save the world](http://www.hopesandfears.com/hopes/city/life/215749-solarpunk). Ben Valentine & Vincent Callebaut.
 
-- Session 13: The Come Down
+- Session 12: The Come Down
     - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1#.oef7thyw0). Quinn Norton.
     - [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015). mcm\_cmc.
     - [The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed). Ursula K. Le Guin.
@@ -123,6 +123,14 @@ The following were taken from Matthew Hockenberry's [Supply Studies Syllabus](ht
 - [The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth). Tim Maughan.
 - [In China, Human Costs Are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html). Charles Duhigg and David Barboza.
 - [The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution). Ted Genoways.
+
+---
+
+I ended up removing this session since I couldn't quite get it to fit, but maybe it will have its place later, so here it is:
+
+- Sapir-Whorf: Language
+    - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost. (watch the episode too)
+    - [Walls of the Tongue: A Sociolinguistic Analysis of Ursula K. Le Guin's _The Dispossessed_](http://linguistics.berkeley.edu/~dwbruhn/dwbruhn_376_Dispossessed.pdf). Daniel W. Bruhn.
 
 ---
 
