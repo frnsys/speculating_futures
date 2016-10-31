@@ -4,6 +4,8 @@ _Speculating Futures_ looks at past speculative narratives, like those of Ursula
 
 This syllabus will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
 
+[You can view the web version here.](http://frnsys.com/speculating_futures/)
+
 ---
 
 ![](calvin_and_hobbes.jpg)
