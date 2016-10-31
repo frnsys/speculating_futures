@@ -56,7 +56,7 @@ body {
   animation-duration: 0.8s;
   animation-timing-function: linear;
   animation-iteration-count: 1;
-  animation-fill-mode: forwards;
+  /* animation-fill-mode: forwards; */
 }
 
 
@@ -69,9 +69,6 @@ h1, h2 {
 h1 {
   font-size: 8em;
   font-family: 'youngserifregular';
-  /* text-shadow: 2px 2px 0px #d6d3d3, 4px 5px 0px #dedede; */
-  /* text-shadow: 2px 2px 0px #caced2, 4px 5px 0px #ede7e7; */
-  /* text-shadow: -5px -8px 10px #ff8989, 4px 5px 12px #5475e9, 8px -6px 9px #dbe959, 2px 2px 0px #caced2, 4px 5px 0px #ede7e7; */
   text-shadow: 2px 2px 0px rgb(202, 206, 210), 3px 4px 0px rgb(237, 231, 231), -5px -5px 10px rgba(137, 255, 209, 0.3), 4px 5px 12px rgba(84, 117, 233, 0.4), 8px 6px 9px rgba(89, 162, 233, 0.4);
 }
 h2 {
