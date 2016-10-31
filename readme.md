@@ -42,7 +42,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [So far we have discovered fourteen genders](https://twitter.com/MicroSFF/status/720991032079462401). @MicroSFF.
     - [Technically, a Utopia](http://bookforum.com/inprint/022_05/15583). Sarah Leonard.
 
-- Session 4: Dirty Work: Neocolonialism
+- Session 4: How it's Made: Neocolonialism
     - [Postcapitalist Ecology: A Comment on Inventing the Future](http://thedisorderofthings.com/2015/11/04/postcapitalist-ecology-a-comment-on-inventing-the-future/). Joseph Kay.
     - [E-waste Republic](http://interactive.aljazeera.com/aje/2015/ewaste/index.html). Jacopo Ottaviani & Isacco Chiaf.
     - [Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on). Colin Kinniburgh.
