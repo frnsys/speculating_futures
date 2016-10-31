@@ -68,12 +68,17 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [The Workers Who Bring You Black Friday](http://www.thenation.com/article/holiday-crush/). Gabriel Thompson.
     - [Inventing the Future (Review)](http://www.publicseminar.org/2015/10/inventing-the-future/). McKenzie Wark.
     - [Utopia, Artificial Intelligence, and the Future of Justice](http://www.milesbrundage.com/uploads/2/1/6/8/21681226/utopiapaperai.pdf). Miles Brundage.
+    - [A Basic Income for All](http://bostonreview.net/archives/BR25.5/vanparijs.html). Philippe Van Parijs.
 
-- Session 7: A Sense of Belonging: The State & Property
+- Session 7: A Sense of Belonging: The State, Violence, & Property
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
     - [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/). Peter Frase.
     - [Seeing Like A State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf) (Chapter 1). James C. Scott.
     - [How intellectual property rules help the rich and hurt the poor](http://www.pbs.org/newshour/making-sense/column-intellectual-property-rules-help-the-rich/). Dean Baker.
+    - [Why Dakota Is the New Keystone](http://www.nytimes.com/2016/10/29/opinion/why-dakota-is-the-new-keystone.html?_r=0). Bill McKibben.
+    - [The War on Drugs is an Epic Fail](http://www.nytimes.com/video/opinion/100000004642370/jay-z-the-war-on-drugs-is-an-epic-fail.html). Jay Z, Molly Crabapple, Jim Batt, Kim Boekbinder and dream hampton.
+    - [This is what it will be like to protest in 2020, when the state is watching your every move](http://fusion.net/story/362575/protest-2020-future-surveillance-activism-police/). Peter Moskowitz.
+    - [The Making of the American Police State](https://www.jacobinmag.com/2015/07/incarceration-capitalism-black-lives-matter/). Christian Parenti.
 
 - Session 8: We Aren't the World: Postwestern Society & Race
     - [Tongtong's Summer](http://clarkesworldmagazine.com/xia_12_14_reprint/). Xia Jia (translated by Ken Liu).
