@@ -29,11 +29,11 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
     - [The Propaganda of the Colony](http://metropolarity.net/2016/09/style-of-attack-report/). Eighteen & Ras, from Metropolarity's _Style of Attack Report_.
 
-- Session 2: The Illusive Utopia: Cultural Hegemony and Ideology
+- Session 2: The Illusive Utopia: Cultural Hegemony & Ideology
     - [In the Name of Love](https://www.jacobinmag.com/2014/01/in-the-name-of-love/). Miya Tokumitsu.
     - ["Sharing" Economy and Self-Exploitation](http://thenewinquiry.com/blogs/marginal-utility/sharing-economy-and-self-exploitation/). Rob Horning.
 
-- Session 3: Gender and Sexuality
+- Session 3: Gender & Sexuality
     - [Why Aren't There More Women Futurists?](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097/) Rose Eveleth.
     - [A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf). Donna Haraway.
     - [Xenofeminism: A Politics for Alienation](http://www.laboriacuboniks.net/). Laboria Cuboniks.
@@ -69,7 +69,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Inventing the Future (Review)](http://www.publicseminar.org/2015/10/inventing-the-future/). McKenzie Wark.
     - [Utopia, Artificial Intelligence, and the Future of Justice](http://www.milesbrundage.com/uploads/2/1/6/8/21681226/utopiapaperai.pdf). Miles Brundage.
 
-- Session 7: (Intellectual) Property: State, Control and Legislation
+- Session 7: (Intellectual) Property: State, Control & Legislation
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
     - [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/). Peter Frase.
     - [Seeing Like A State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf) (Chapter 1). James C. Scott.
@@ -91,7 +91,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Rebooting humanity through disability](https://dishuman.com/2015/02/02/rebooting-humanity-through-disability/). Dan Goodley.
     - [Crip Utopia and the Future of Disability](http://cdd.journals.yorku.ca/index.php/cdd/article/download/23383/21615). Peter J. Mackey.
 
-- Session 10: Chaff: Internet and (Social) Media
+- Session 10: Chaff: Internet & (Social) Media
     - [Cyber-Utopianism](http://crowdsociety.org/index.php?title=Cyber-utopianism&oldid=4608)
     - [An Accelerated Grimace: On Cyber-Utopianism](https://www.thenation.com/article/accelerated-grimace-cyber-utopianism/). Chris Lehmann.
     - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4). EM Quangel
