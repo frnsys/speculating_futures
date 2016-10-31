@@ -33,7 +33,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [In the Name of Love](https://www.jacobinmag.com/2014/01/in-the-name-of-love/). Miya Tokumitsu.
     - ["Sharing" Economy and Self-Exploitation](http://thenewinquiry.com/blogs/marginal-utility/sharing-economy-and-self-exploitation/). Rob Horning.
 
-- Session 3: Gender & Sexuality
+- Session 3: Post-Bit: Gender & Sexuality
     - [Why Aren't There More Women Futurists?](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097/) Rose Eveleth.
     - [A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf). Donna Haraway.
     - [Xenofeminism: A Politics for Alienation](http://www.laboriacuboniks.net/). Laboria Cuboniks.
@@ -42,7 +42,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [So far we have discovered fourteen genders](https://twitter.com/MicroSFF/status/720991032079462401). @MicroSFF.
     - [Technically, a Utopia](http://bookforum.com/inprint/022_05/15583). Sarah Leonard.
 
-- Session 4: How's it Made? Neocolonialism
+- Session 4: Dirty Work: Neocolonialism
     - [Postcapitalist Ecology: A Comment on Inventing the Future](http://thedisorderofthings.com/2015/11/04/postcapitalist-ecology-a-comment-on-inventing-the-future/). Joseph Kay.
     - [E-waste Republic](http://interactive.aljazeera.com/aje/2015/ewaste/index.html). Jacopo Ottaviani & Isacco Chiaf.
     - [Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on). Colin Kinniburgh.
@@ -62,20 +62,20 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [A Few Notes on the Culture](http://www.vavatch.co.uk/books/banks/cultnote.htm). Iain M Banks.
     - [How Far to AI-topia?](http://www.milesbrundage.com/blog-posts/how-far-to-ai-topia). Miles Brundage.
 
-- Session 6: Positive Freedom: The Post-Work Society
+- Session 6: Synthetic Freedom: The Post-Work Society
     - [Justice for “Data Janitors”](http://www.publicbooks.org//nonfiction/justice-for-data-janitors). Lilly Irani.
     - [The Dialectic of Technology](https://www.jacobinmag.com/2012/02/the-dialectic-of-technology/). Peter Frase.
     - [The Workers Who Bring You Black Friday](http://www.thenation.com/article/holiday-crush/). Gabriel Thompson.
     - [Inventing the Future (Review)](http://www.publicseminar.org/2015/10/inventing-the-future/). McKenzie Wark.
     - [Utopia, Artificial Intelligence, and the Future of Justice](http://www.milesbrundage.com/uploads/2/1/6/8/21681226/utopiapaperai.pdf). Miles Brundage.
 
-- Session 7: (Intellectual) Property: State, Control & Legislation
+- Session 7: A Sense of Belonging: The State & Property
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
     - [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/). Peter Frase.
     - [Seeing Like A State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf) (Chapter 1). James C. Scott.
     - [Psycho-Pass](https://en.wikipedia.org/wiki/Psycho-Pass). Production I.G.
 
-- Session 8: Postwestern Society, Diaspora, & Race
+- Session 8: We Aren't the World: Postwestern Society & Race
     - [Tongtong's Summer](http://clarkesworldmagazine.com/xia_12_14_reprint/). Xia Jia (translated by Ken Liu).
     - [The End of Days Is Coming — Just Not to China](https://foreignpolicy.com/2016/07/29/the-end-of-days-is-coming-just-not-to-china-apocalyptic-fiction-movies/). Isaac Stone Fish.
     - [Visual Cultures of Indigenous Futurisms](http://gutsmagazine.ca/featured/visual-cultures). Lindsay Nixon.
