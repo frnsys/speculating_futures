@@ -56,7 +56,7 @@ body {
   animation-duration: 0.8s;
   animation-timing-function: linear;
   animation-iteration-count: 1;
-  /* animation-fill-mode: forwards; */
+  animation-fill-mode: forwards;
 }
 
 
