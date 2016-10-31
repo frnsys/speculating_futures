@@ -73,7 +73,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Welcome to Life: the singularity, ruined by lawyers](https://www.youtube.com/watch?v=IFe9wiDfb0E). Tom Scott.
     - [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/). Peter Frase.
     - [Seeing Like A State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf) (Chapter 1). James C. Scott.
-    - [Psycho-Pass](https://en.wikipedia.org/wiki/Psycho-Pass). Production I.G.
+    - [How intellectual property rules help the rich and hurt the poor](http://www.pbs.org/newshour/making-sense/column-intellectual-property-rules-help-the-rich/). Dean Baker.
 
 - Session 8: We Aren't the World: Postwestern Society & Race
     - [Tongtong's Summer](http://clarkesworldmagazine.com/xia_12_14_reprint/). Xia Jia (translated by Ken Liu).
