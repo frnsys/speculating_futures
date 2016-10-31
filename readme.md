@@ -1,6 +1,6 @@
 # Speculating Futures
 
-_Speculating Futures_ looks at past speculative narratives, like those of Ursula K. Le Guin, and past attempts at creating technological utopia, like Chile's Cybersyn. These readings examine the shortcomings that prevented these visions from being fully realized, and how they may have been limited or exclusionary. These texts also tie these visions to the contemporary issues that need to be addressed in subsequent utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
+_Speculating Futures_ looks at past speculative narratives, like those of Ursula K. Le Guin, and past attempts at creating technological utopia, like Chile's Cybersyn. These readings examine the shortcomings that prevented these visions from being fully realized and how they may have been limited or exclusionary. These texts also tie these visions to the contemporary issues that need to be addressed in subsequent utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
 
 This syllabus will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
 
