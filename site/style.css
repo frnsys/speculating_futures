@@ -1,0 +1,309 @@
+@import 'assets/fonts/YoungSerif/fontface.css';
+@import url('https://fonts.googleapis.com/css?family=Arimo|Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Poppins:700');
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+  background: beige;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Arimo', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+#field {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+@keyframes pop {
+  0% {
+    transform: scale(0)
+  }
+  15% {
+    transform: scale(1.1)
+  }
+  30% {
+    transform: scale(1)
+  }
+  85% {
+    transform: scale(1)
+  }
+  100% {
+    transform: scale(0)
+  }
+}
+.star {
+  position: absolute;
+  border-radius: 40em;
+  background: beige;
+  top: 1em;
+  left: 1em;
+  width: 2.2em;
+  height: 2.2em;
+  box-shadow: 2px 2px 12px rgba(255, 253, 210, 0.8) inset, -2px -2px 12px rgba(62, 64, 249, 0.6) inset, 0px 0px 4px rgba(0,0,0,0.1);
+  animation-name: pop;
+  animation-duration: 0.8s;
+  animation-timing-function: linear;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+
+h1, h2 {
+  color: #fff;
+  font-weight: normal;
+  word-wrap: break-word;
+}
+
+h1 {
+  font-size: 8em;
+  font-family: 'youngserifregular';
+  /* text-shadow: 2px 2px 0px #d6d3d3, 4px 5px 0px #dedede; */
+  /* text-shadow: 2px 2px 0px #caced2, 4px 5px 0px #ede7e7; */
+  /* text-shadow: -5px -8px 10px #ff8989, 4px 5px 12px #5475e9, 8px -6px 9px #dbe959, 2px 2px 0px #caced2, 4px 5px 0px #ede7e7; */
+  text-shadow: 2px 2px 0px rgb(202, 206, 210), 3px 4px 0px rgb(237, 231, 231), -5px -5px 10px rgba(137, 255, 209, 0.3), 4px 5px 12px rgba(84, 117, 233, 0.4), 8px 6px 9px rgba(89, 162, 233, 0.4);
+}
+h2 {
+  font-size: 3em;
+  font-family: 'Poppins', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';;
+  line-height: 1.2;
+  text-shadow: 2px 2px 0px #d6d3d3, 3px 4px 0px #dedede;
+}
+
+h3 {
+  color: rgba(0,0,0,0.6);
+}
+
+p {
+  font-size: 1.3em;
+  line-height: 1.7;
+  color: #5a5a5a;
+  background: #fffffd;
+  padding: 2em;
+  border-radius: 0.4em;
+  box-shadow: 4px 4px 0px #0000001a;
+}
+
+img {
+  width: 100%;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+}
+
+a, a:visited {
+  background: rgba(0,0,0,0.2);
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px dotted #fff;
+}
+a:hover {
+  background: #fff !important;
+  color: #222;
+}
+
+#intro, #credits {
+  padding: 2em;
+  max-width: 960px;
+  margin: 0 auto 4em auto;
+}
+#intro {
+  font-family: 'Roboto Mono';
+}
+#credits {
+  margin: 4em auto;
+}
+
+#syllabus {
+  box-shadow: 0px 0px 12px rgba(0,0,0,0.8);
+}
+
+#syllabus article {
+  clear: both;
+}
+#syllabus .session-inner {
+  width: 54%;
+  height: 100vh;
+  min-height: 640px;
+  float: left;
+  padding: 4em 2em;
+  position: relative;
+}
+#syllabus .session-inner::before {
+  content: "";
+  position: absolute;
+  left: -10px;
+  bottom: 0;
+  top: 0;
+  background-repeat: repeat;
+  width: 10px;
+  background-size: 22px 32px;
+  background-image: radial-gradient(circle at 26px 16px, #d52611 24px, transparent 25px);
+}
+#syllabus figure {
+  width: 46%;
+  float: left;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  cursor: help;
+}
+#syllabus figcaption {
+  display: none;
+  font-size: 0.8em;
+  position: absolute;
+  bottom: 0;
+  left: 0.5em;
+  margin: 1em;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+}
+#syllabus figure:hover figcaption {
+  display: block;
+}
+#syllabus article:nth-child(odd) .session-inner,
+#syllabus article:nth-child(odd) figure {
+  float: right;
+}
+#syllabus article:nth-child(odd) .session-inner::before {
+  left: auto;
+  right: -10px;
+}
+#syllabus figure,
+#syllabus article:first-child,
+#syllabus article:last-child {
+  height: 100vh;
+  min-height: 600px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#syllabus article:first-child,
+#syllabus article:last-child {
+  padding: 2em;
+}
+#syllabus article:first-child h3,
+#syllabus article:last-child h3 {
+  color: #fff;
+}
+#syllabus article:first-child a,
+#syllabus article:first-child a:visited {
+  background: rgba(0,0,0,0.7);
+}
+#syllabus article:first-child .session-inner,
+#syllabus article:last-child .session-inner {
+  width: 100%;
+  float: none;
+  height: auto;
+  color: #fff;
+  border-radius: 1em;
+  background: -moz-linear-gradient(top,  rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%);
+  background: -webkit-linear-gradient(top,  rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 100%);
+  background: linear-gradient(to bottom,  rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 100%);
+}
+#syllabus article:first-child .session-inner::before,
+#syllabus article:last-child .session-inner::before {
+  display: none;
+}
+
+ul {
+  padding: 0;
+}
+li {
+  margin: 0.4em 0;
+  list-style-type: none;
+}
+li:before {
+    content: '\2022';
+    color: rgba(255,255,255,0.6);
+    padding-right: 0.5em;
+}
+
+#session-2 .session-inner { background: #f9f981; }
+#session-2 .session-inner::before { background-image: radial-gradient(circle at 26px 16px, #f9f981 24px, transparent 25px); }
+#session-3 .session-inner { background: #008aff; }
+#session-3 .session-inner::before { background-image: radial-gradient(circle at -16px 16px, #008aff 24px, transparent 25px); }
+#session-4 .session-inner { background: #fb4343; }
+#session-4 .session-inner::before { background-image: radial-gradient(circle at 26px 16px, #fb4343 24px, transparent 25px); }
+#session-5 .session-inner { background: pink; }
+#session-5 .session-inner::before { background-image: radial-gradient(circle at -16px 16px, pink 24px, transparent 25px); }
+#session-6 .session-inner { background: #3811d5; }
+#session-6 .session-inner::before { background-image: radial-gradient(circle at 26px 16px, #3811d5 24px, transparent 25px); }
+#session-7 .session-inner { background: #514f4f; }
+#session-7 .session-inner::before { background-image: radial-gradient(circle at -16px 16px, #514f4f 24px, transparent 25px); }
+#session-8 .session-inner { background: #d52611; }
+#session-8 .session-inner::before { background-image: radial-gradient(circle at 26px 16px, #d52611 24px, transparent 25px); }
+#session-9 .session-inner { background: #9f46f3; }
+#session-9 .session-inner::before { background-image: radial-gradient(circle at -16px 16px, #9f46f3 24px, transparent 25px); }
+#session-10 .session-inner { background: #596bef; }
+#session-10 .session-inner::before { background-image: radial-gradient(circle at 26px 16px, #596bef 24px, transparent 25px); }
+#session-11 .session-inner { background: #11d552; }
+#session-11 .session-inner::before { background-image: radial-gradient(circle at -16px 16px, #11d552 24px, transparent 25px); }
+
+
+@media only screen and (max-width: 1000px) {
+  h1 {
+    font-size: 3em;
+  }
+  h2 {
+    font-size: 2.4em;
+  }
+  p {
+    font-size: 1.1em;
+  }
+
+  #syllabus .session-inner,
+  #intro, #credits {
+    padding: 1em;
+  }
+
+  #syllabus .session-inner,
+  #syllabus article:first-child,
+  #syllabus article:last-child {
+    width: 100%;
+    float: none;
+    height: auto;
+  }
+  #syllabus article:first-child,
+  #syllabus article:last-child {
+    padding: 1em;
+  }
+  #syllabus figure {
+    width: 100%;
+    float: none;
+    height: 360px;
+    background-position: center top;
+  }
+
+  #syllabus .session-inner::before {
+    left: 0 !important;
+    bottom: auto;
+    right: 0 !important;
+    top: -10px;
+    height: 10px;
+    width: auto;
+    background-repeat: repeat;
+    background-size: 22px 32px;
+  }
+
+  #session-2 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #f9f981 24px, transparent 25px); }
+  #session-3 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #008aff 24px, transparent 25px); }
+  #session-4 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #fb4343 24px, transparent 25px); }
+  #session-5 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, pink 24px, transparent 25px); }
+  #session-6 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #3811d5 24px, transparent 25px); }
+  #session-7 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #514f4f 24px, transparent 25px); }
+  #session-8 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #d51211 24px, transparent 25px); }
+  #session-9 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #9f46f3 24px, transparent 25px); }
+  #session-10 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #596bef 24px, transparent 25px); }
+  #session-11 .session-inner::before { background-image: radial-gradient(circle at 12px 28px, #11d552 24px, transparent 25px); }
+}
