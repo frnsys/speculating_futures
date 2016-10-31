@@ -89,10 +89,11 @@ p {
   font-size: 1.3em;
   line-height: 1.7;
   color: #5a5a5a;
-  background: #fffffd;
+  /* background: rgba(255, 255, 253, 1); */
+  background: rgba(255, 255, 253, 0.8);
   padding: 2em;
   border-radius: 0.4em;
-  box-shadow: 4px 4px 0px #0000001a;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
 }
 
 img {
