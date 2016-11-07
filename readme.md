@@ -95,6 +95,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Utopian Possibilities: Disability, Norms, and Eugenics in Octavia Butler's Xenogenesis](http://online.liverpooluniversitypress.co.uk/doi/abs/10.3828/jlcds.2015.2). Claire Curtis.
     - [Rebooting humanity through disability](https://dishuman.com/2015/02/02/rebooting-humanity-through-disability/). Dan Goodley.
     - [Crip Utopia and the Future of Disability](http://cdd.journals.yorku.ca/index.php/cdd/article/download/23383/21615). Peter J. Mackey.
+    - [GynePunk, the cyborg witches of DIY gynecology](http://www.makery.info/en/2016/06/30/gynepunk-les-sorcieres-cyborg-de-la-gynecologie-diy/). Ewen Chardronnet.
 
 - Session 10: Chaff: Internet & (Social) Media
     - [Cyber-Utopianism](http://crowdsociety.org/index.php?title=Cyber-utopianism&oldid=4608)
