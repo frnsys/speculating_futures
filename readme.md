@@ -35,6 +35,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
 
 - Session 3: Post-Bit: Gender & Sexuality
     - [Why Aren't There More Women Futurists?](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097/) Rose Eveleth.
+    - [La conciencia de la mestiza (Towards a New Consciousness)](https://sites.oxy.edu/ron/msi/05/texts/anzaldua-mestizaconsciousness.pdf). Gloria Anzaldúa.
     - [A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf). Donna Haraway.
     - [Xenofeminism: A Politics for Alienation](http://www.laboriacuboniks.net/). Laboria Cuboniks.
     - [The Matter of Seggri](http://poliscifi.pbworks.com/f/leguin.pdf). Ursula K. Le Guin.
