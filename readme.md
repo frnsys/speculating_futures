@@ -105,6 +105,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 
 - Session 11: All We Have: Environment & Ecology
+    - [Industrial scars: The environmental cost of consumption](https://www.theguardian.com/environment/gallery/2016/oct/24/industrial-scars-the-environmental-cost-of-consumption-in-pictures). J Henry Fair.
     - [Alive in the Sunshine](https://www.jacobinmag.com/2014/01/alive-in-the-sunshine/). Alyssa Battistoni.
     - [Samsung's Galaxy Note 7 Recall is an Environmental Travesty](http://motherboard.vice.com/read/galaxy-note-7-explosion-environmental-impact-recycling). Jason Koebler.
     - [The New Utopians](https://newrepublic.com/article/123217/new-utopians). Jeet Heer.
