@@ -1,8 +1,8 @@
 # Speculating Futures
 
-_Speculating Futures_ looks at past speculative narratives, like those of Ursula K. Le Guin, and past attempts at creating technological utopia, like Chile's Cybersyn. These readings examine the shortcomings that prevented these visions from being fully realized and how they may have been limited or exclusionary. These texts also tie these visions to the contemporary issues that need to be addressed in subsequent utopian imaginaries. The goal is to envision our own utopian futures, which consequently involve reimagining current circumstances, and write about and prototype the technologies that undergird them.
+_Speculating Futures_ looks at past speculative narratives, like those of Ursula K. Le Guin, and past attempts at creating technological utopia, like Chile's Cybersyn. These readings examine the shortcomings that prevented these visions from being fully realized and how they may have been limited or exclusionary. These texts also tie these visions to the contemporary issues/present dystopias that need to be addressed in subsequent utopian imaginaries. Feeling like there's a future is vital for moving through the present, so we'll also envision our own utopian futures to work towards.
 
-This syllabus will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
+This syllabus was first launched in December 2016 for [The New Inquiry](http://thenewinquiry.com/)'s [Science/Fiction](http://thenewinquiry.com/features/tni-vol-38-futures-editors-note/) issue. It will probably never be complete; it's always open to suggestions. If you're familiar with GitHub, please don't hesitate to submit a pull request; if not, [feel free to send suggestions to me on Twitter (@frnsys)](https://twitter.com/frnsys).
 
 [You can view the web version here.](http://speculatingfutures.club)
 
@@ -32,6 +32,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
 - Session 2: The Illusive Utopia: Cultural Hegemony & Ideology
     - [In the Name of Love](https://www.jacobinmag.com/2014/01/in-the-name-of-love/). Miya Tokumitsu.
     - ["Sharing" Economy and Self-Exploitation](http://thenewinquiry.com/blogs/marginal-utility/sharing-economy-and-self-exploitation/). Rob Horning.
+    - [Racism and Science Fiction](http://www.nyrsf.com/racism-and-science-fiction-.html). Samuel R. Delany.
 
 - Session 3: Post-Bit: Gender & Sexuality
     - [Why Aren't There More Women Futurists?](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097/) Rose Eveleth.
@@ -42,6 +43,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Aye, and Gomorrah...](http://strangehorizons.com/2015/20151123/2delany-f.shtml). Samuel R. Delany.
     - [So far we have discovered fourteen genders](https://twitter.com/MicroSFF/status/720991032079462401). @MicroSFF.
     - [Technically, a Utopia](http://bookforum.com/inprint/022_05/15583). Sarah Leonard.
+    - [Testo Junkie: Sex, Drugs, and Biopolitics](http://www.e-flux.com/journal/44/60141/testo-junkie-sex-drugs-and-biopolitics/). Paul B. Preciado, translated by Bruce Benderson.
 
 - Session 4: How it's Made: Neocolonialism
     - [Postcapitalist Ecology: A Comment on Inventing the Future](http://thedisorderofthings.com/2015/11/04/postcapitalist-ecology-a-comment-on-inventing-the-future/). Joseph Kay.
@@ -97,6 +99,8 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Rebooting humanity through disability](https://dishuman.com/2015/02/02/rebooting-humanity-through-disability/). Dan Goodley.
     - [Crip Utopia and the Future of Disability](http://cdd.journals.yorku.ca/index.php/cdd/article/download/23383/21615). Peter J. Mackey.
     - [GynePunk, the cyborg witches of DIY gynecology](http://www.makery.info/en/2016/06/30/gynepunk-les-sorcieres-cyborg-de-la-gynecologie-diy/). Ewen Chardronnet.
+    - [What Was Life? Answers from Three Limit Biologies](https://anthropology.mit.edu/sites/default/files/documents/helmreich_what_was_life.pdf). Stefan Helmreich.
+    - [Antiviral](https://en.wikipedia.org/wiki/Antiviral_(film)). Brandon Cronenberg.
 
 - Session 10: Chaff: Internet & (Social) Media
     - [Cyber-Utopianism](http://crowdsociety.org/index.php?title=Cyber-utopianism&oldid=4608)
@@ -112,7 +116,9 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Solarpunk wants to save the world](http://www.hopesandfears.com/hopes/city/life/215749-solarpunk). Ben Valentine & Vincent Callebaut.
 
 - Session 12: The Come Down
+    - [TNI Vol. 38: Futures Editor's Note](http://thenewinquiry.com/features/tni-vol-38-futures-editors-note/). The New Inquiry.
     - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1#.oef7thyw0). Quinn Norton.
+    - [The Elementary Particles](https://en.wikipedia.org/wiki/Atomised). Michel Houellebecq, translated by Frank Wynne.
     - [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015). mcm\_cmc.
     - [The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed). Ursula K. Le Guin.
 
