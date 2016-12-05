@@ -18,6 +18,17 @@ body {
   font-family: 'Arimo', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 }
 
+.banner {
+  background: #91a8f8;
+  text-align: center;
+  padding: 1em 1em 0.5em 1em;
+}
+.banner img {
+  height: 1.5em;
+  width: auto;
+  box-shadow: none;
+}
+
 #field {
   position: fixed;
   top: 0;
