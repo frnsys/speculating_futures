@@ -118,7 +118,6 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
 - Session 12: The Come Down
     - [TNI Vol. 38: Futures Editor's Note](http://thenewinquiry.com/features/tni-vol-38-futures-editors-note/). The New Inquiry.
     - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1#.oef7thyw0). Quinn Norton.
-    - [The Elementary Particles](https://en.wikipedia.org/wiki/Atomised). Michel Houellebecq, translated by Frank Wynne.
     - [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015). mcm\_cmc.
     - [The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed). Ursula K. Le Guin.
 
