@@ -29,6 +29,10 @@ body {
   width: auto;
   box-shadow: none;
 }
+.banner a, .banner a:hover {
+  background: none !important;
+  border-bottom: none !important;
+}
 
 #field {
   position: fixed;
