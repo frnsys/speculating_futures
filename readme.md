@@ -146,7 +146,8 @@ I ended up removing this session since I couldn't quite get it to fit, but maybe
 - Sapir-Whorf: Language
     - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost. (watch the episode too)
     - [Walls of the Tongue: A Sociolinguistic Analysis of Ursula K. Le Guin's _The Dispossessed_](http://linguistics.berkeley.edu/~dwbruhn/dwbruhn_376_Dispossessed.pdf). Daniel W. Bruhn.
-
+    - [A Pattern Language](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf). Christopher Alexander. 
+ 
 ---
 
 This syllabus isn't about science fiction per se, but there's definitely a lot of overlap...here are science fiction books that I've enjoyed or that were suggested by others:
