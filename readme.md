@@ -6,6 +6,8 @@ This syllabus was first launched in December 2016 for [The New Inquiry](http://t
 
 [You can view the web version here.](http://speculatingfutures.club)
 
+Note that this text version has some additional readings contributed by others.
+
 ---
 
 ![](calvin_and_hobbes.jpg)
