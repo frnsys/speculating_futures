@@ -65,7 +65,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [What Wal-Mart Knows About Customers' Habits](http://www.nytimes.com/2004/11/14/business/yourmoney/what-walmart-knows-about-customers-habits.html). Constance L. Hays.
     - [A Few Notes on the Culture](http://www.vavatch.co.uk/books/banks/cultnote.htm). Iain M Banks.
     - [How Far to AI-topia?](http://www.milesbrundage.com/blog-posts/how-far-to-ai-topia). Miles Brundage.
-    - [Folding Beijing](http://uncannymagazine.com/article/folding-beijing-2/. Hao Jingfang (translated by Ken Liu).
+    - [Folding Beijing](http://uncannymagazine.com/article/folding-beijing-2/). Hao Jingfang, translated by Ken Liu.
 
 - Session 6: Synthetic Freedom: The Post-Work Society
     - [Justice for “Data Janitors”](http://www.publicbooks.org//nonfiction/justice-for-data-janitors). Lilly Irani.
@@ -104,26 +104,21 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [GynePunk, the cyborg witches of DIY gynecology](http://www.makery.info/en/2016/06/30/gynepunk-les-sorcieres-cyborg-de-la-gynecologie-diy/). Ewen Chardronnet.
     - [What Was Life? Answers from Three Limit Biologies](https://anthropology.mit.edu/sites/default/files/documents/helmreich_what_was_life.pdf). Stefan Helmreich.
     - [Antiviral](https://en.wikipedia.org/wiki/Antiviral_(film)). Brandon Cronenberg.
-    
-- Session 10: Sapir-Whorf: Language & Perception
-    - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost. (watch the episode too)
-    - [Walls of the Tongue: A Sociolinguistic Analysis of Ursula K. Le Guin's _The Dispossessed_](http://linguistics.berkeley.edu/~dwbruhn/dwbruhn_376_Dispossessed.pdf). Daniel W. Bruhn.
-    - [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/). Venkatesh Rao.
 
-- Session 11: Chaff: Internet & (Social) Media
+- Session 10: Chaff: Internet & (Social) Media
     - [Cyber-Utopianism](http://crowdsociety.org/index.php?title=Cyber-utopianism&oldid=4608)
     - [An Accelerated Grimace: On Cyber-Utopianism](https://www.thenation.com/article/accelerated-grimace-cyber-utopianism/). Chris Lehmann.
     - [SPOOKS](http://www.amazon.com/SPOOKS-dystopia-E-M-Quangel-ebook/dp/B00QL15GH4). EM Quangel
     - [Communicative Capitalism: Circulation and the Foreclosure of Politics](https://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf). Jodi Dean.
 
-- Session 12: All We Have: Environment & Ecology
+- Session 11: All We Have: Environment & Ecology
     - [Industrial scars: The environmental cost of consumption](https://www.theguardian.com/environment/gallery/2016/oct/24/industrial-scars-the-environmental-cost-of-consumption-in-pictures). J Henry Fair.
     - [Alive in the Sunshine](https://www.jacobinmag.com/2014/01/alive-in-the-sunshine/). Alyssa Battistoni.
     - [Samsung's Galaxy Note 7 Recall is an Environmental Travesty](http://motherboard.vice.com/read/galaxy-note-7-explosion-environmental-impact-recycling). Jason Koebler.
     - [The New Utopians](https://newrepublic.com/article/123217/new-utopians). Jeet Heer.
     - [Solarpunk wants to save the world](http://www.hopesandfears.com/hopes/city/life/215749-solarpunk). Ben Valentine & Vincent Callebaut.
 
-- Session 13: The Come Down
+- Session 12: The Come Down
     - [TNI Vol. 38: Futures Editor's Note](http://thenewinquiry.com/features/tni-vol-38-futures-editors-note/). The New Inquiry.
     - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1#.oef7thyw0). Quinn Norton.
     - [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015). mcm\_cmc.
@@ -149,9 +144,12 @@ The following were taken from Matthew Hockenberry's [Supply Studies Syllabus](ht
 
 ---
 
-I ended up removing this session since I couldn't quite get it to fit, but maybe it will have its place later, so here it is:
+Extra sessions:
 
-
+- Sapir-Whorf: Language & Perception
+    - [Shaka, When the Walls Fell](http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/). Ian Bogost. (watch the episode too)
+    - [Walls of the Tongue: A Sociolinguistic Analysis of Ursula K. Le Guin's _The Dispossessed_](http://linguistics.berkeley.edu/~dwbruhn/dwbruhn_376_Dispossessed.pdf). Daniel W. Bruhn.
+    - [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/). Venkatesh Rao.
 
 ---
 
