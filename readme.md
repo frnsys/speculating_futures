@@ -125,6 +125,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [Everything is Broken](https://medium.com/message/everything-is-broken-81e5f33a24e1#.oef7thyw0). Quinn Norton.
     - [Fully automated luxury communism: a utopian critique](https://libcom.org/blog/fully-automated-luxury-communism-utopian-critique-14062015). mcm\_cmc.
     - [The Dispossessed: An Ambiguous Utopia](https://en.wikipedia.org/wiki/The_Dispossessed). Ursula K. Le Guin.
+    - [The Regrettable Decline of Space Utopias](https://www.currentaffairs.org/2017/03/the-regrettable-decline-of-space-utopias). Brianna Rennix.
 
 ---
 
