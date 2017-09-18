@@ -172,7 +172,6 @@ a:hover {
   cursor: help;
 }
 #syllabus figcaption {
-  display: none;
   font-size: 0.8em;
   position: absolute;
   bottom: 0;
@@ -180,9 +179,6 @@ a:hover {
   margin: 1em;
   background: rgba(0,0,0,0.8);
   color: #fff;
-}
-#syllabus figure:hover figcaption {
-  display: block;
 }
 #syllabus article:nth-child(odd) .session-inner,
 #syllabus article:nth-child(odd) figure {
