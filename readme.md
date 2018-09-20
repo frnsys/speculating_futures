@@ -23,7 +23,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
     - [The Unexotic Underclass](https://miter.mit.edu/the-unexotic-underclass/). C.Z. Nnaemeka.
     - [Make technological utopia easier with this one weird trick](http://futurismic.com/2014/10/12/make-technological-utopia-easier-with-this-one-weird-trick/). Paul Raven.
     - [Social Science Fiction](http://www.peterfrase.com/2010/12/social-science-fiction/). Peter Frase.
-    - [A Non-Euclidean View of California as a Cold Place to Be](http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
+    - [A Non-Euclidean View of California as a Cold Place to Be](https://web.archive.org/web/20180628075056/http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
     - [Postcards from the Futch](https://medium.com/message/postcards-from-the-futch-595796d8a45d#.7x8g0skdj). Joanne McNeil.
     - [Optimists’ Creed: Brave New Cyberlearning, Evolving Utopias (Circa 2041)](http://link.springer.com/article/10.1007/s40593-016-0096-x). Winslow Burleson, Armanda Lewis.
     - [Free love or genocide? The trouble with Utopias](http://www.theguardian.com/books/2016/jan/24/trouble-with-utopia-free-love-genocide-thomas-more-500-exhibition). Tobias Jones.
