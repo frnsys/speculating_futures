@@ -19,44 +19,44 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
 - Session 1: What do we have to look forward to? A whirlwind tour of the imagined and present dystopia
     - "The future is here, it's just unevenly distributed" - William Gibson
     - [When the Messiah Came to America, She Was a Woman](https://blog.longreads.com/2016/02/25/when-the-messiah-came-to-america-she-was-a-woman/). Chris Jennings.
-    - [Why Futurism Has a Cultural Blindspot](http://nautil.us/issue/28/2050/why-futurism-has-a-cultural-blindspot). Tom Vanderbilt.
-    - [The Unexotic Underclass](https://miter.mit.edu/the-unexotic-underclass/). C.Z. Nnaemeka.
+    - [Why Futurism Has a Cultural Blindspot](https://nautil.us/why-futurism-has-a-cultural-blindspot-235615/). Tom Vanderbilt.
+    - [[The Unexotic Underclass]](https://cznnaemeka.com/The%20Unexotic%20Underclass.php). C.Z. Nnaemeka.
     - [Make technological utopia easier with this one weird trick](http://futurismic.com/2014/10/12/make-technological-utopia-easier-with-this-one-weird-trick/). Paul Raven.
     - [Social Science Fiction](http://www.peterfrase.com/2010/12/social-science-fiction/). Peter Frase.
-    - [A Non-Euclidean View of California as a Cold Place to Be](https://web.archive.org/web/20180628075056/http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be). Ursula K. Le Guin.
+    - [A Non-Euclidean View of California as a Cold Place to Be](https://cpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/9/20/files/2019/07/1989a_Le-Guin_non-Euclidean-view-California.pdf). Ursula K. Le Guin.
     - [Postcards from the Futch](https://medium.com/message/postcards-from-the-futch-595796d8a45d#.7x8g0skdj). Joanne McNeil.
     - [Optimists’ Creed: Brave New Cyberlearning, Evolving Utopias (Circa 2041)](http://link.springer.com/article/10.1007/s40593-016-0096-x). Winslow Burleson, Armanda Lewis.
     - [Free love or genocide? The trouble with Utopias](http://www.theguardian.com/books/2016/jan/24/trouble-with-utopia-free-love-genocide-thomas-more-500-exhibition). Tobias Jones.
     - [Every Single Word Spoken by a Person of Color in "Her"](https://www.youtube.com/watch?v=wy_z_KKClBE). Edited by Dylan Marron.
     - [The Future Mundane](http://www.core77.com/posts/25678/the-future-mundane-25678). Nick Foster.
-    - [The Propaganda of the Colony](http://metropolarity.net/2016/09/style-of-attack-report/). Eighteen & Ras, from Metropolarity's _Style of Attack Report_.
+    - [The Propaganda of the Colony - The Style of Attack](https://www.dropbox.com/s/3g1x5aq1r1lavar/METROPOLARITY_STYLE-OF-ATTACK-REPORT_2016.pdf.pdf?dl=0). Eighteen & Ras, from Metropolarity's _Style of Attack Report_.
 
 - Session 2: The Illusive Utopia: Cultural Hegemony & Ideology
     - [In the Name of Love](https://www.jacobinmag.com/2014/01/in-the-name-of-love/). Miya Tokumitsu.
-    - ["Sharing" Economy and Self-Exploitation](http://thenewinquiry.com/blogs/marginal-utility/sharing-economy-and-self-exploitation/). Rob Horning.
+    - ["Sharing" Economy and Self-Exploitation](https://thenewinquiry.com/blog/sharing-economy-and-self-exploitation/). Rob Horning.
     - [Racism and Science Fiction](http://www.nyrsf.com/racism-and-science-fiction-.html). Samuel R. Delany.
-    - [Starship Stormtroopers](http://flag.blackened.net/liberty/moorcock.html). Michael Moorcock.
+    - [Starship Stormtroopers](https://libcom.org/article/starship-stormtroopers-michael-moorcock). Michael Moorcock.
 
 - Session 3: Post-Bit: Gender & Sexuality
     - [Why Aren't There More Women Futurists?](http://www.theatlantic.com/technology/archive/2015/07/futurism-sexism-men/400097/) Rose Eveleth.
-    - [La conciencia de la mestiza (Towards a New Consciousness)](https://sites.oxy.edu/ron/msi/05/texts/anzaldua-mestizaconsciousness.pdf). Gloria Anzaldúa.
-    - [A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf). Donna Haraway.
-    - [Xenofeminism: A Politics for Alienation](http://www.laboriacuboniks.net/). Laboria Cuboniks.
-    - [The Matter of Seggri](http://poliscifi.pbworks.com/f/leguin.pdf). Ursula K. Le Guin.
-    - [Aye, and Gomorrah...](http://strangehorizons.com/2015/20151123/2delany-f.shtml). Samuel R. Delany.
+    - [La conciencia de la mestiza (Towards a New Consciousness)](https://dornsife.usc.edu/assets/sites/1490/docs/anzaldua_gloria_--_borderlands_la_frontera.pdf). Gloria Anzaldúa.
+    - [A Cyborg Manifesto](https://theanarchistlibrary.org/library/donna-haraway-a-cyborg-manifesto). Donna Haraway.
+    - [Xenofeminism: A Politics for Alienation](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/). Laboria Cuboniks.
+    - [The Matter of Seggri](https://feministdigitalarchiveh2.wordpress.com/2015/02/23/the-matter-of-seggri-by-ursula-k-le-guin/). Ursula K. Le Guin.
+    - [Aye, and Gomorrah...](http://strangehorizons.com/fiction/aye-and-gomorrah/). Samuel R. Delany.
     - [So far we have discovered fourteen genders](https://twitter.com/MicroSFF/status/720991032079462401). @MicroSFF.
     - [Technically, a Utopia](http://bookforum.com/inprint/022_05/15583). Sarah Leonard.
     - [Testo Junkie: Sex, Drugs, and Biopolitics](http://www.e-flux.com/journal/44/60141/testo-junkie-sex-drugs-and-biopolitics/). Paul B. Preciado, translated by Bruce Benderson.
 
 - Session 4: How it's Made: Neocolonialism
     - [Postcapitalist Ecology: A Comment on Inventing the Future](http://thedisorderofthings.com/2015/11/04/postcapitalist-ecology-a-comment-on-inventing-the-future/). Joseph Kay.
-    - [E-waste Republic](http://interactive.aljazeera.com/aje/2015/ewaste/index.html). Jacopo Ottaviani & Isacco Chiaf.
+    - [E-waste Republic](https://www.internazionale.it/webdoc/ewaste-republic/). Jacopo Ottaviani & Isacco Chiaf.
     - [Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on). Colin Kinniburgh.
     - [The Laborers Who Keep Dick Pics and Beheadings Out of Your Facebook Feed](http://www.wired.com/2014/10/content-moderation). Adrian Chen.
     - [1 Million Workers. 90 Million iPhones. 17 Suicides. Who’s to Blame?](http://www.wired.com/2011/02/ff_joelinchina/). Joel Johnson.
     - [In China, Human Costs Are Built Into an iPad](http://www.nytimes.com/2012/01/26/business/ieconomy-apples-ipad-and-the-human-costs-for-workers-in-china.html). Charles Duhigg and David Barboza.
     - [Congratulations, We’re Moving Your Department to Tennessee](https://backchannel.com/those-entry-level-startup-jobs-they-re-now-mostly-dead-ends-in-the-boondocks-af3b4066f5dd#.gmwwi6lh0). Lauren Smiley.
-    - [The Ones Who Walk Away From Omelas](http://engl210-deykute.wikispaces.umb.edu/file/view/omelas.pdf). Ursula K. Le Guin.
+    - [The Ones Who Walk Away From Omelas](https://files.libcom.org/files/ursula-k-le-guin-the-ones-who-walk-away-from-omelas.pdf). Ursula K. Le Guin.
     - [The Dystopian Lake Filled by the World's Tech Lust](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth). Tim Maughan.
     - [The Price of the Paperless Revolution](http://www.vqronline.org/editors-desk/price-paperless-revolution). Ted Genoways.
 
@@ -72,7 +72,7 @@ _NB: Beyond session 1, these sessions aren't in any particular order. There's so
 - Session 6: Synthetic Freedom: The Post-Work Society
     - [Justice for “Data Janitors”](http://www.publicbooks.org//nonfiction/justice-for-data-janitors). Lilly Irani.
     - [The Dialectic of Technology](https://www.jacobinmag.com/2012/02/the-dialectic-of-technology/). Peter Frase.
-    - [The Workers Who Bring You Black Friday](http://www.thenation.com/article/holiday-crush/). Gabriel Thompson.
+    - [The Workers Who Bring You Black Friday](https://www.thenation.com/article/archive/holiday-crush/). Gabriel Thompson. ===
     - [Inventing the Future (Review)](http://www.publicseminar.org/2015/10/inventing-the-future/). McKenzie Wark.
     - [Utopia, Artificial Intelligence, and the Future of Justice](http://www.milesbrundage.com/uploads/2/1/6/8/21681226/utopiapaperai.pdf). Miles Brundage.
     - [A Basic Income for All](http://bostonreview.net/archives/BR25.5/vanparijs.html). Philippe Van Parijs.
