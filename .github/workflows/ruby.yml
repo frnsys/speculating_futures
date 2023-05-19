@@ -22,4 +22,4 @@ jobs:
       - name: Check links
         run: |
           gem install awesome_bot
-          awesome_bot README.md --allow-ssl --allow 302,429 --white-list 'https://mywhitelisteddomain.com,https://mysecondwhitelisteddomain.com'
+          awesome_bot readme.md --allow-ssl --allow 302,429 --white-list 'https://mywhitelisteddomain.com,https://mysecondwhitelisteddomain.com'
